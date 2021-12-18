@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://wnhsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wnhsu/wnhsu.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wei-Ning Hsu (徐煒甯)"
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   bio              : "Research Scientist @ Facebook AI Research (FAIR)"
   location         : "New York, NY, USA"
   employer         :
@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  - _pages_templates
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -142,6 +143,7 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator/README.md
   - node_modules
   - package.json
   - tmp
