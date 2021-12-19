@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version can be downloaded <a href="https://wnhsu.github.io/files/CV.pdf">here</a>
+
 Work experience
 ======
 * 2020/08 - present: Research Scientist
@@ -34,6 +36,17 @@ Publications
 ======
 You can find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 
+Invited Talks
+======
+* 2021/10: HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units @ Speech Seminar, Chulalongkorn University, Thailand
+* 2021/09: HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units @ DAMO Academy, Alibaba, China
+* 2019/02: Controllable Text-to-Speech Snythesis with Disentangled Speech Representations @ Dina Katabi's group, Harvard University, USA
+* 2018/11: Controllable Text-to-Speech Snythesis with Disentangled Speech Representations @ Alexander Rush's group, Harvard University, USA
+* 2018/04: Unsupervised Speech Representation Learning --- Method and Applications @ IBM Speech Day, IBM, USA
+* 2017/12: Learning Disentangled and Interpretable Speech Representations @ Speech Processing Lab, National Taiwan University, Taiwan
+* 2017/12: Learning Disentangled and Interpretable Speech Representations @ Computational Learning Lab, National Taiwan University, Taiwan
+* 2017/05: Recent Advances in Deep Learning for Speech Recognition @ Pingan 3A Forum, China
+
 Service
 ======
 * Senior Program Committee:
@@ -55,7 +68,7 @@ Service
   * EMNLP 2021
   * COLING 2018-2020
 
-* Journal Review:
+* Journal Reviewer:
   * IEEE SPS
   * IEEE TASLP
   * IEEE PAMI
@@ -84,10 +97,8 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+* Spring 2019, Teaching Assistant, MIT 6.345 Automatic Speech Recognition
