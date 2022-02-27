@@ -25,12 +25,9 @@ Harbin Engineering University in 2014.
 
 ## Recent Research Highlight
 
-* [Audio-Visual
-  HuBERT](https://ai.facebook.com/blog/ai-that-understands-speech-by-looking-as-well-as-hearing/):
-  the first self-supervised model for audio-visual speech, achieving
-  state-of-the-art performance on lip-reading, speech recognition, and
-  audio-visual speech recognition with much less labeled data
-* [data2vec](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/):
+* [Multi-channel End-to-end Speech Recognition](https://mp.weixin.qq.com/s/NrC7STgyB9Y_FyoTVVOsdA):
+  Built Multi-channel End-to-end Speech Recognition from 0 to 1, produced three patents and one paper
+* [](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/):
   The first high-performance self-supervised algorithm that works for speech,
   vision, and text
 * [Textless Speech-to-Speech Translation on Real
