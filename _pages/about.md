@@ -16,7 +16,7 @@ He has a vision of opening the door to the ultimate natural voice experience in 
 where there would not exist any obstacles to human-machine and human-human communication.
 
 Prior to joining Xiaomi, Quandong received his Ph.D. degrees in
-Signal and Information Proccessing from Institute of Acoustics, Chinese Academy of Sciences/University of Chinese Academy of Sciences in 2019.
+Signal and Information Proccessing from Institute of Acoustics, Chinese Academy of Sciences / University of Chinese Academy of Sciences in 2019.
 During the Ph.D. period, he was also a joint training Ph.D. student at Georgia Institute of Technology
 under the supervision of [Prof. Chin-Hui Lee](https://chl.ece.gatech.edu/). He received
 his B.S. degree in Electrical Engineering from
