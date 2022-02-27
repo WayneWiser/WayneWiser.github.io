@@ -8,24 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Wei-Ning is a research scientist at [Facebook AI Research
-(FAIR)](https://ai.facebook.com/). His research focuses on
-representation learning, self-supervised learning, and structured generative
-modeling for unimodal and multimodal speech. He is passionate about reducing
-the supervision required for various speech applications and developing
-technologies applicable to both written and unwritten languages. 
+Quandong is a senior algorithm engineer and researcher at Xiaomi AI Lab. 
+His research focuses on
+multi-channel / end-to-end speech recognition, speech enhancement, speech separation, and multimodal modeling.
+He is passionate about advancing far-field speech processing technologies and solving key problems. 
+He has a vision of opening the door to the ultimate natural voice experience in the era of the Internet of Things, 
+where there would not exist any obstacles to human-machine and human-human communication.
 
-Prior to joining Facebook. Wei-Ning received his Ph.D. and S.M. degrees in
-[Electrical Engineering and Computer Science](https://www.eecs.mit.edu) from
-[Massachusetts Institute of Technology](https://www.mit.edu/) in 2020 and 2018,
-under the supervision of [Dr. James
-Glass](https://www.csail.mit.edu/person/jim-glass). He received
-his B.S. degree in [Electrical Engineering](https://web.ee.ntu.edu.tw/) from
-[National Taiwan University](https://www.ntu.edu.tw/english/) in 2014, under
-the supervision of [Prof. Lin-shan
-Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof.
-Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/).
-
+Prior to joining Xiaomi, Quandong received his Ph.D. degrees in
+[Signal and Information Proccessing] 
+from [Institute of Acoustics, Chinese Academy of Sciences]/[University of Chinese Academy of Sciences] in 2019.
+During the Ph.D. period, he was also a joint training Ph.D. student at Georgia Institute of Technology
+under the supervision of [Prof. Chin-Hui Lee] (https://chl.ece.gatech.edu/). He received
+his B.S. degree in [Electrical Engineering] from
+[Harbin Engineering University] in 2014.
 
 
 ## Recent Research Highlight
