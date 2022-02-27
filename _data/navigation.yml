@@ -1,10 +1,12 @@
 # main links links
 main:
-  #  - title: "CV"
-  #    url: /cv/
-  #   - title: "Publications"
-  #     url: /publications/
-  # 
+    - title: "Working Projects"
+      url: /wp/
+    - title: "Publications"
+      url: /publications/
+    - title: "Other Honors and Awards"
+      url: /OHA/
+
   #   - title: "Talks"
   #     url: /talks/    
   # 

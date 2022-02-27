@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Quandong is a senior algorithm engineer and researcher at Speech Group, Xiaomi AI Lab. 
+Quandong is a senior algorithm engineer and also a researcher at Speech Group, Xiaomi AI Lab. 
 His research focuses on
 multi-channel / end-to-end speech recognition, speech enhancement, speech separation, and multimodal modeling.
 He is passionate about advancing far-field speech processing technologies and solving key problems. 
