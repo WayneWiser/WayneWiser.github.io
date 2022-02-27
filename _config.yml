@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Quandong Wang (王全东)"
   avatar           : "20220227200118.jpg"
-  bio              : "Research Scientist @ Facebook AI Research (FAIR)"
-  location         : "New York, NY, USA"
+  bio              : "Senior Algorithm Engineer @ XIAOMI AI LAB"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=N5HDmqoAAAAJ"
-  email            : "wnhsu@fb.com"
+  googlescholar    : "https://scholar.google.com/citations?user=QzkvGf4AAAAJ&hl=en"
+  email            : "quandwang@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wnhsu"
+#  github           : "wnhsu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.cn/injobs/in/quandong-wang-101419"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mhnt1580"
+#  twitter          : "mhnt1580"
   vine             :
   weibo            :
   xing             :
