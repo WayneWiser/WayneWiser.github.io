@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Quandong is a senior algorithm engineer and researcher at Xiaomi AI Lab. 
+Quandong is a senior algorithm engineer and researcher at Speech Group, Xiaomi AI Lab. 
 His research focuses on
 multi-channel / end-to-end speech recognition, speech enhancement, speech separation, and multimodal modeling.
 He is passionate about advancing far-field speech processing technologies and solving key problems. 
@@ -16,12 +16,11 @@ He has a vision of opening the door to the ultimate natural voice experience in 
 where there would not exist any obstacles to human-machine and human-human communication.
 
 Prior to joining Xiaomi, Quandong received his Ph.D. degrees in
-[Signal and Information Proccessing] 
-from [Institute of Acoustics, Chinese Academy of Sciences]/[University of Chinese Academy of Sciences] in 2019.
+Signal and Information Proccessing from Institute of Acoustics, Chinese Academy of Sciences/University of Chinese Academy of Sciences in 2019.
 During the Ph.D. period, he was also a joint training Ph.D. student at Georgia Institute of Technology
-under the supervision of [Prof. Chin-Hui Lee] (https://chl.ece.gatech.edu/). He received
-his B.S. degree in [Electrical Engineering] from
-[Harbin Engineering University] in 2014.
+under the supervision of [Prof. Chin-Hui Lee](https://chl.ece.gatech.edu/). He received
+his B.S. degree in Electrical Engineering from
+Harbin Engineering University in 2014.
 
 
 ## Recent Research Highlight
