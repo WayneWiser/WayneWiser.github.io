@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei-Ning Hsu (徐煒甯)"
+title                    : "Quandong Wang (王全东)"
 title_separator          : "-"
-name                     : &name "Wei-Ning Hsu (徐煒甯)"
+name                     : &name "Quandong Wang (王全东)"
 description              : &description "personal description"
-url                      : https://wnhsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://waynewiser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wnhsu/wnhsu.github.io"
+repository               : "WayneWiser/WayneWiser.github.io"
 teaser                   : # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,12 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter mhnt1580
-facebook:
-  username               : Wei-Ning Hsu
-  app_id                 : weining.hsu1
-  publisher              :
+#twitter:
+#  username               : &twitter mhnt1580
+#facebook:
+#  username               : Wei-Ning Hsu
+#  app_id                 : weining.hsu1
+#  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei-Ning Hsu (徐煒甯)"
-  avatar           : "profile2.png"
+  name             : "Quandong Wang (王全东)"
+  avatar           : "20220227200118.jpg"
   bio              : "Research Scientist @ Facebook AI Research (FAIR)"
   location         : "New York, NY, USA"
   employer         :
