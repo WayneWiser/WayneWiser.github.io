@@ -4,8 +4,8 @@ main:
       url: /wp/
     - title: "Publications"
       url: /publications/
-    - title: "Other Honors and Awards"
-      url: /OHA/
+    - title: "Honors and Awards"
+      url: /HA/
 
   #   - title: "Talks"
   #     url: /talks/    
