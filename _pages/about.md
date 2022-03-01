@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Quandong is a senior algorithm engineer and also a researcher at Speech Group, Xiaomi AI Lab. 
+Quandong is a senior algorithm engineer and also a researcher at Speech Group, Xiaomi AI Lab, with collaboration with [Dr. Daniel Povey](https://www.danielpovey.com/) 
 His research focuses on
 multi-channel / end-to-end speech recognition, speech enhancement, speech separation, and multimodal modeling.
 He is passionate about advancing far-field speech processing technologies and solving key problems. 
@@ -26,7 +26,10 @@ Harbin Engineering University in 2014.
 ## Recent Research Highlight
 
 * [Multi-channel End-to-end Speech Recognition](https://mp.weixin.qq.com/s/NrC7STgyB9Y_FyoTVVOsdA):
-  Built Multi-channel End-to-end Speech Recognition from 0 to 1, produced three patents and one paper.
+  Built Multi-channel End-to-end Speech Recognition from 0 to 1, won Xiaomi Million Dollar Technology Award Excellence Award, and produced three patents and one paper.
 * [Multimodal ASR / KWS](https://mp.weixin.qq.com/s/lNJJgn2M3175gr5aGqr6WA):
-  Won the 1st place in audio-visual wake word spotting and 2nd place in audio-visual speech recognition.
-
+  Won the 1st place in audio-visual wake word spotting and 2nd place in audio-visual speech recognition in the worldwide challenge MISP2021 under ICASSP 2022. 
+* [Multi-channel speech enhancement in Video Conference](https://mp.weixin.qq.com/s/9DK6uPI0tKXHT9LL58ftLw):
+  Won the 2nd place in the worldwide challenge ConferencingSpeech2021 under INTERSPEECH 2021.
+* [Personal ASR](https://mp.weixin.qq.com/s/hxBwfhNdmvbtmAOou8Z3PA):
+  Build personal ASR model for online accented users and disabled people. My work is accepted in World Internet Conference.
