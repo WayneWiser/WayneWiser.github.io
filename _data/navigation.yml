@@ -1,11 +1,11 @@
 # main links links
 main:
-    - title: "Working Projects"
-      url: /wp/
-    - title: "Publications"
-      url: /publications/
-    - title: "Honors and Awards"
-      url: /HA/
+  #  - title: "Working Projects"
+  #    url: /wp/
+  #  - title: "Publications"
+  #    url: /publications/
+  #  - title: "Honors and Awards"
+  #    url: /HA/
 
   #   - title: "Talks"
   #     url: /talks/    
