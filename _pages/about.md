@@ -26,21 +26,7 @@ Harbin Engineering University in 2014.
 ## Recent Research Highlight
 
 * [Multi-channel End-to-end Speech Recognition](https://mp.weixin.qq.com/s/NrC7STgyB9Y_FyoTVVOsdA):
-  Built Multi-channel End-to-end Speech Recognition from 0 to 1, produced three patents and one paper
-* [](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/):
-  The first high-performance self-supervised algorithm that works for speech,
-  vision, and text
-* [Textless Speech-to-Speech Translation on Real
-  Data](https://arxiv.org/abs/2112.08352): first ever text-free
-  speech-to-speech translation model trained on real data that 
-  is on par with text-based models
-* [wav2vec-U](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/):
-  an unsupervised speech recognition framework that rivals the best supervised 
-  model from 2 years ago and works for 10 languages
-* [Textless NLP](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/):
-  a model that can do prompted or unprompted speech generation without using
-  any text (like audio-version of
-  [GPT-2](https://openai.com/blog/better-language-models/))
-* [HuBERT](https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression/):
-  a state-of-the-art self-supervised speech representation learning model for 
-  recognition, generation, and compression.
+  Built Multi-channel End-to-end Speech Recognition from 0 to 1, produced three patents and one paper.
+* [Multimodal ASR / KWS](https://mp.weixin.qq.com/s/lNJJgn2M3175gr5aGqr6WA):
+  Won the 1st place in audio-visual wake word spotting and 2nd place in audio-visual speech recognition.
+
