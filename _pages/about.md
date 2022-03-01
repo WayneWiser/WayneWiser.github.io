@@ -24,7 +24,7 @@ his B.S. degree in Electrical Engineering from
 Harbin Engineering University in 2014.
 
 
-## Recent Research Highlight
+## Recent Projects / Research Highlight
 
 * [Multi-channel End-to-end Speech Recognition](https://mp.weixin.qq.com/s/NrC7STgyB9Y_FyoTVVOsdA):
   Built Multi-channel End-to-end Speech Recognition from 0 to 1, and won the Excellence Award of Xiaomi Million Dollar Technology Award 2020, with produced three patents.
