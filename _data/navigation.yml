@@ -1,9 +1,9 @@
 # main links links
 main:
-    - title: "Working Projects"
-      url: /wp/
-    - title: "Honors and Awards"
-      url: /HA/
+  #  - title: "Working Projects"
+  #    url: /wp/
+  #  - title: "Honors and Awards"
+  #    url: /HA/
 
   #  - title: "Publications"
   #    url: /publications/
@@ -13,8 +13,8 @@ main:
   #   - title: "Talks"
   #     url: /talks/    
   # 
-  #   - title: "Teaching"
-  #     url: /teaching/    
+     - title: "Working Projects"
+       url: /teaching/    
   #     
   #   - title: "Portfolio"
   #     url: /portfolio/
@@ -25,5 +25,5 @@ main:
   #   - title: "CV"
   #     url: /cv/
   #     
-  #   - title: "Guide"
-  #     url: /markdown/
+     - title: "Honors and Awards"
+       url: /markdown/
