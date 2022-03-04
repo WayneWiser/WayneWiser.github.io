@@ -30,7 +30,7 @@ Harbin Engineering University in 2014.
   Built Multi-channel End-to-end Speech Recognition from 0 to 1, and won the Excellence Award of Xiaomi Million Dollar Technology Award 2020, with produced three patents.
 * [Multimodal ASR / KWS](https://mp.weixin.qq.com/s/lNJJgn2M3175gr5aGqr6WA):
   Won the 1st place in audio-visual wake word spotting and 2nd place in audio-visual speech recognition in the worldwide challenge MISP2021 under ICASSP 2022. 
-* [Multi-channel speech enhancement in Video Conference](https://mp.weixin.qq.com/s/9DK6uPI0tKXHT9LL58ftLw):
+* [Multi-channel Speech Enhancement in Video Conference](https://mp.weixin.qq.com/s/9DK6uPI0tKXHT9LL58ftLw):
   Won the 2nd place in the worldwide challenge ConferencingSpeech2021 under INTERSPEECH 2021.
 * [Personal ASR](https://mp.weixin.qq.com/s/hxBwfhNdmvbtmAOou8Z3PA):
   Build personal ASR models for online accented users and disabled people. My work is accepted in World Internet Conference 2021.
