@@ -17,11 +17,11 @@ location: "City, Country"
 
 Y. Kong, J. Wu, Q. Wang, P. Gao, W. Zhuang, Y. Wang, L. Xie, "Multi-Channel Automatic Speech Recognition Using Deep Complex Unet", 2021 IEEE Spoken Language Technology Workshop (SLT), 2021, pp. 104-110.
 
-• 一种单/多通道语音识别模型混合训练装置
+* 一种单/多通道语音识别模型混合训练装置
 
-• 一种适用于多通道远场语音识别的离线最优强制对齐装置
+* 一种适用于多通道远场语音识别的离线最优强制对齐装置
 
-• 一种基于解码置信度的多通道数据增广装置
+* 一种基于解码置信度的多通道数据增广装置
 
 算法创新
 ======
