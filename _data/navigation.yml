@@ -13,8 +13,8 @@ main:
   #   - title: "Talks"
   #     url: /talks/    
   # 
-  #   - title: "Working Projects"
-  #     url: /teaching/    
+     - title: "Working Projects"
+       url: /teaching/    
   #     
   #   - title: "Portfolio"
   #     url: /portfolio/
@@ -25,5 +25,5 @@ main:
   #   - title: "CV"
   #     url: /cv/
   #     
-  #   - title: "Honors and Awards"
-  #     url: /markdown/
+     - title: "Honors and Awards"
+       url: /markdown/
