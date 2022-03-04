@@ -2,9 +2,8 @@
 title: "多通道端到端ASR"
 collection: teaching
 type: "Project / Research"
-permalink: /teaching/2021-xiaomi-2
+permalink: /teaching/2021-xiaomi-1
 venue: "Xiaomi, AI lab"
-date: 2019-07,2021-09
 location: "City, Country"
 ---
 
