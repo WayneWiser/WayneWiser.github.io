@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Quandong is a senior algorithm engineer and also a researcher at Speech Group, Xiaomi AI Lab, with collaboration with [Dr. Daniel Povey](https://www.danielpovey.com/) 
+He is responsible for the exploration and implementation of cutting-edge speech technologies.
 His research focuses on
 far-field multi-channel / end-to-end speech recognition, speech enhancement, speech separation, and multimodal modeling.
 
