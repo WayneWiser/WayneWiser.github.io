@@ -1,5 +1,5 @@
 ---
-title: "预训练模型下游应用"
+title: "预训练模型高效迁移给下游任务"
 collection: teaching
 type: "Research"
 permalink: /teaching/2022-xiaomi-2
